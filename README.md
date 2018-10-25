@@ -5,3 +5,6 @@ ELCI: Edge-based Labeled Crack Image
 [2] Hyunwoo Cho, Hyuk-Jin Yoon, Ju-Young Jung, "Image-based Crack Detection Using Crack Width Transform (CWT) Algorithm", IEEE Access, 10.1109/ACCESS.2018.2875889
 # License
 No permission is required.
+# Another crack image dataset
+https://www.irit.fr/~Sylvie.Chambon/Crack_Detection_Database.html  
+https://github.com/cuilimeng/CrackForest-dataset
